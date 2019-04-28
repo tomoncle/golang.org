@@ -27,3 +27,8 @@ $ cd $GOROOT/src
 $ git clone --depth=1 https://github.com/tomoncle/golang.org.git golang.org
 $ rm -rf $GOROOT/src/golang.org/.git
 ```
+
+## 备注
+> 所有的包(模块)，都在 https://github.com/golang 社区中存在，clone 到 `$GOROOT/golang.org/x` 包下即可.
+
+
